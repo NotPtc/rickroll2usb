@@ -20,4 +20,4 @@ type cmd
 
 command: 
 
-- powershell -c "Invoke-WebRequest -Uri 'https://bit.ly/3xTZQ43' -OutFile 'c:\users\%username%\downloads\rickroll2usb'"
+- powershell -c "Invoke-WebRequest -Uri 'https://bit.ly/3xTZQ43' -OutFile 'c:\users\%username%\downloads\rickroll2usb.zip'"
