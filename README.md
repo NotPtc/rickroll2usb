@@ -13,3 +13,11 @@ make your usb stick be a rickroller
 
 
 # how to download
+
+press the windows key + r
+type cmd
+
+
+command: 
+
+- powershell -c "Invoke-WebRequest -Uri 'https://bit.ly/3xTZQ43' -OutFile 'c:\users\%username%\downloads\rickroll2usb'"
